@@ -19,7 +19,7 @@
 1. Go to your repository `Settings → Secrets and variables → Actions`
 2. Add a new repository secret:
    - **Name**: `LENSAI_API_KEY`
-   - **Value**: Your LensAI API key ([Get one here](https://lensai.tech/cydocgen)
+   - **Value**: Your LensAI API key ([Get one here](https://lensai.tech/cydocgen))
 
 ### Step 3: Run the Action
 1. Go to `Actions` tab in your repository  
